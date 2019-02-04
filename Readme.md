@@ -1,6 +1,6 @@
 Very Stable Easy to Load Greatest Yamp map for civ 6
 
-Heavily cut down around the edges to all for stable use
+Heavily cut down around the edges to allow for stable use
 
 Core map components still in place
 
